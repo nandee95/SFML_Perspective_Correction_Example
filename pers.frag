@@ -1,4 +1,3 @@
-#version 150
 in vec4 texCoords;
 uniform sampler2D texture;
 
